@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/github-banner.png" width="100%" alt="Manish AI Developer Banner"/>
+<img src="assets/Futuristic AI Student Workspace Banner.png" width="100%" alt="Manish AI Developer Banner"/>
 
 # 👋 Hey, I'm Manish Chaudhary!
 
